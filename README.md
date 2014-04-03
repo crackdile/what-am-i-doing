@@ -13,6 +13,18 @@ Got really funny and interesting results like this:
 | ![alt tag](https://raw2.github.com/necrosmx/what-am-i-doing/master/img/best/6.png) | ![alt tag](https://raw2.github.com/necrosmx/what-am-i-doing/master/img/best/7.png) |
 | ![alt tag](https://raw2.github.com/necrosmx/what-am-i-doing/master/img/best/8.png) | ![alt tag](https://raw2.github.com/necrosmx/what-am-i-doing/master/img/best/9.png) |
 
+##Dependencies
+###For Linux users:
+You need to install mplayer
+```bash
+sudo apt-get install mplayer #Debian based systems
+```
+###For Mac OS X users:
+You need to install imagesnap before
+```bash
+brew install imagesnap
+```
+
 ##How to use it?
 Just run it!
 ```bash
